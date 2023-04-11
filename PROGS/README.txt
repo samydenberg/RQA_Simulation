@@ -2,7 +2,7 @@ To run 'main.m' file, add the folder "PROGRAMS" with subfolders to the path in M
 
 Then, click "Run" in Matlab Editor.
 
-'Run_gDPM.ipynb' runs the gDPM
+'Run_gDPM.ipynb' runs gDPM on a GPU, this code is not included due to it being private
 
 'fAnimation.m' animates the system setup
 
