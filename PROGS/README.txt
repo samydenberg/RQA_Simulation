@@ -1,4 +1,7 @@
-To run 'main.m' file, add the folder "PROGRAMS" with subfolders to the path in Matlab. 
+To run 'main.m' file, download the folder "PROGRAMS" and open the folder in MATLAB.
+
+Then, download the data folder from https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/sydenbe1_jh_edu/EvH37_J87wFLoAjFwBBLAR4BJDUPd9IUgL1OW3ZTN2nK6w?e=QX2RHc
+Add this folder to the "PROGRAMS" folder.
 
 Then, click "Run" in Matlab Editor.
 
