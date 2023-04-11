@@ -1,9 +1,0 @@
-x_dim = 150
-y_dim = 150
-z_dim = 150
-x_pixdim = 0.200000
-y_pixdim = 0.200000
-z_pixdim = 0.200000
-x_start = -15.000000
-y_start = -15.000000
-z_start = -15.000000
