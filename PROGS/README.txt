@@ -1,3 +1,7 @@
+To run 'main.m' file, add the folder "PROGRAMS" with subfolders to the path in Matlab. 
+
+Then, click "Run" in Matlab Editor.
+
 'Run_gDPM.ipynb' runs the gDPM
 
 'fAnimation.m' animates the system setup
