@@ -1,0 +1,6 @@
+To run 'main.m' file, add the folder "PROGRAMS" with subfolders to the path in Matlab. 
+
+Then, click "Run" in Matlab Editor.
+
+
+
